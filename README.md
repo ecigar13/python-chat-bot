@@ -26,4 +26,3 @@ Thoughts of correctness and statistical techniques are more important than blind
 - POS labeling: I (subject), completed (verb), job (noun)...
 - Stemming: completed -> complete (the original word)
 - Lemming: completion -> completion, completed -> complete (one is a noun, one is a verb, also consider other factors)
-- 
